@@ -1,0 +1,11 @@
+name: Ragequit
+version: ${project.version}
+main: com.rasmushenneken.ragequit.Ragequit
+api-version: 1.13
+authors: [RasmusHenneken]
+description: Ragequit plugin for Spigot
+website: https://www.rasmushenneken.com/
+commands:
+  rq:
+    description: Ragequit.
+    aliases: [ragequit]

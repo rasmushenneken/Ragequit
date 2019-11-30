@@ -1,0 +1,7 @@
+# Ragequit Plugin by Rasmus Henneken
+#
+# %player% includes pre- and suffixes
+# Use & for colors and formatting
+
+ragequit_message: '%player% ragequit. What a noob. :)'
+kick_message: '&dBut why???'
