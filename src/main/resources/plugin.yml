@@ -8,4 +8,5 @@ website: https://www.rasmushenneken.com/
 commands:
   rq:
     description: Ragequit.
-    aliases: [ragequit]
+    aliases: ragequit
+    usage: "/<command> [reload]"
